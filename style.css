@@ -1,0 +1,48 @@
+body {
+    background-color: #00FF7F;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.verde {
+    width: 100px;
+    height: 45px;
+    background-color: #00FF7F;
+    border-radius: 20px;
+}
+
+.azul {
+    width: 100px;
+    height: 45px;
+    background-color: #00BFFF;
+    border-radius: 20px;
+}
+
+
+.vermelho {
+    width: 100px;
+    height: 45px;
+    background-color: red;
+    border-radius: 20px;
+}
+
+.contener_botao-verde {
+    position: fixed;
+    top: 250px;
+    left: 650px;
+}
+
+.contener_botao-azul {
+    position: fixed;
+    top: 250px;
+    left: 790px;
+}
+
+.contener_botao-vermelho {
+    position: fixed;
+    top: 250px;
+    left: 510px;
+}
